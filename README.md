@@ -1,0 +1,1 @@
+A discord bot for KuriiStar's server.
